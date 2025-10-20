@@ -14,7 +14,7 @@ This repository provides battle-tested solutions to these challenges, helping yo
 
 ## Available Patterns
 
-### [Local Package Docker](local-package-docker/)
+### [Local Package Docker](docker-local-pkg/)
 Learn how to properly include custom local libraries with ZenML pipelines, particularly when running on remote stacks like Sagemaker or GCP Vertex AI or Kubernetes. This pattern solves common issues with:
 - Local vs Remote Import Issues
 - Python Path Problems
